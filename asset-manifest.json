@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fcc-load-more-button/static/css/main.761a9317.css",
+    "main.js": "/fcc-load-more-button/static/js/main.bfa553c3.js",
+    "static/js/453.ef504b34.chunk.js": "/fcc-load-more-button/static/js/453.ef504b34.chunk.js",
+    "index.html": "/fcc-load-more-button/index.html",
+    "main.761a9317.css.map": "/fcc-load-more-button/static/css/main.761a9317.css.map",
+    "main.bfa553c3.js.map": "/fcc-load-more-button/static/js/main.bfa553c3.js.map",
+    "453.ef504b34.chunk.js.map": "/fcc-load-more-button/static/js/453.ef504b34.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.761a9317.css",
+    "static/js/main.bfa553c3.js"
+  ]
+}
